@@ -1,0 +1,49 @@
+THIRD PERSON
+Text                        I ratio     Source
+Cecilia                     0.0132074   https://www.gutenberg.org/cache/epub/6346/pg6346-images.html
+Pride and Prejudice         0.013526    https://www.gutenberg.org/files/1342/1342-0.txt
+Hills like White Elepahnts  0           https://faculty.weber.edu/jyoung/English%202500/Readings%20for%20English%202500/Hills%20Like%20White%20Elephants.pdf
+Tom Jones                   0.015464    https://www.gutenberg.org/files/6593/6593-h/6593-h.htm
+Betsy Thoughtless           0.0111138   https://www.gutenberg.org/cache/epub/46346/pg46346-images.html
+Joseph Andrews              0.0101908   https://www.gutenberg.org/files/9611/9611-h/9611-h.htm
+Sense and Sensibility       0.0138427   https://www.gutenberg.org/files/161/161-h/161-h.htm
+Millenium Hall              0.005748    https://www.gutenberg.org/files/26050/26050-h/26050-h.htm
+Castle of Otranto           0.013817    https://www.gutenberg.org/files/696/696-h/696-h.htm
+Man of Feeling              0.01565     https://www.gutenberg.org/files/5083/5083-h/5083-h.htm
+Simple Story                0.00975     https://www.gutenberg.org/files/22002/22002-h/22002-h.htm
+Mysteries of Udolpho        0.008144    https://www.gutenberg.org/files/3268/3268-h/3268-h.htm
+The Monk                    0.015770    https://www.gutenberg.org/files/601/601-h/601-h.htm
+
+
+FIRST PERSON / EPISTOLARY
+Text                        I ratio     Source
+Clarissa                    0.027671    https://www.gutenberg.org/files/9296/9296-h/9296-h.htm
+Murder of Roger Ackroyd     0.028557    https://www.gutenberg.org/cache/epub/69087/pg69087-images.html
+Evelina                     0.032453    https://www.gutenberg.org/files/6053/6053-h/6053-h.htm
+Jane Eyre                   0.034123    https://www.gutenberg.org/files/1260/1260-h/1260-h.htm
+Robinson Crusoe             0.0402874   https://www.gutenberg.org/files/521/521-h/521-h.htm
+Moll Flanders               0.0373400   https://www.gutenberg.org/cache/epub/370/pg370-images.html
+Gulliver's Travels          0.026260    https://www.gutenberg.org/files/829/829-h/829-h.htm
+Shamela                     0.031799    https://www.gutenberg.org/cache/epub/30962/pg30962-images.html
+Pamela                      0.041178    https://www.gutenberg.org/cache/epub/6124/pg6124-images.html
+Sir Charles Grandison       0.025397    https://www.gutenberg.org/cache/epub/13884/pg13884.html
+Lady Susan                  0.029349    https://www.gutenberg.org/files/946/946-h/946-h.htm
+Roderick Random             0.02451     https://www.gutenberg.org/cache/epub/4085/pg4085-images.html
+Caleb Williams              0.02634     https://www.gutenberg.org/files/11323/11323-h/11323-h.htm
+
+
+AMBIGUOUS
+Text                        I ratio     Source                                                                  Notes
+Moby Dick                   0.008629    https://www.gutenberg.org/cache/epub/2489/pg2489-images.html            Hybrid / Ishmael fades out, scholarly whale context
+Tristram Shandy             0.010826    https://www.gutenberg.org/files/39270/39270-h/39270-h.htm               1st / Highly experimental
+Oroonoko                    0.004804    https://gutenberg.net.au/ebooks07/0700151h.html                         Framed narrative with narrator who plays minor role
+Castle Rackrent             0.010403    https://www.gutenberg.org/files/1424/1424-h/1424-h.htm                  Framed narrative / experimental
+Belinda                     0.020419    https://digital.library.upenn.edu/women/edgeworth/belinda/belinda.html  3rd / Lots of dialogue?
+The Good Soldier            0.018172    https://www.gutenberg.org/files/2775/2775-h/2775-h.htm                  1st / Frame??
+Fanny Hill                  0.019667    https://www.gutenberg.org/cache/epub/25305/pg25305-images.html          1st
+Humphry Clinker             0.015581    https://www.gutenberg.org/cache/epub/2160/pg2160-images.html            1st
+Sentimental Journey         0.022462    https://www.gutenberg.org/files/50054/50054-h/50054-h.htm               1st / Experimental
+Female Quixote              0.016580    https://www.gutenberg.org/files/50054/50054-h/50054-h.htm               3rd
+Vicar of Wakefield          0.019739    https://www.gutenberg.org/files/2667/2667-h/2667-h.htm                  1st
+Wrongs of Woman             0.020059    https://www.gutenberg.org/cache/epub/134/pg134-images.html
+
